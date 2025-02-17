@@ -18,10 +18,3 @@
 </div><br/>
 
 ---
-### 📊 Estatístitas 
-
-<img align="left"
-    alt="GitHub Stats"
-    height="200"
-src="https://github-readme-stats.vercel.app/api?username=fernandesdennys&theme=blue-green&include_all_commits=true"/>
-
