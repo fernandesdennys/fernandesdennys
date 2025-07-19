@@ -31,10 +31,10 @@
 
 ### 📂 Repositórios em Destaque
 
-- 📌 [HTML-CSS](https://github.com/dennysfernandes/HTML-CSS)
-- 📌 [Javascript-TypeScript](https://github.com/dennysfernandes/Javascript-TypeScript)
-- 📌 [Logica-de-programacao](https://github.com/dennysfernandes/Logica-de-programacao)
-- 📌 [Desenv-Web](https://github.com/dennysfernandes/Desenv-Web)
+- 📌 [HTML-CSS](https://github.com/fernandesdennys/HTML-CSS)
+- 📌 [Javascript-TypeScript](https://github.com/fernandesdennys/Javascript-TypeScript)
+- 📌 [Logica-de-programacao](https://github.com/fernandesdennys/Logica-de-programacao)
+- 📌 [Desenv-Web](https://github.com/fernandesdennys/Desenv-Web)
 
 ---
 
