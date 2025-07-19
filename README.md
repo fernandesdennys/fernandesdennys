@@ -38,17 +38,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dennysfernandes&show_icons=true&theme=radical" alt="Dennys GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dennysfernandes&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennysfernandes/)
