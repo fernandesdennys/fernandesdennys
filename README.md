@@ -45,5 +45,5 @@
 ---
 
 <p align="center"><strong>Dennys Fernandes</strong></p>
-<p align="center">📧 **Email:** dennys.projetos@outlook.com</p>
+<p align="center">Email: dennys.projetos@outlook.com</p>
   
