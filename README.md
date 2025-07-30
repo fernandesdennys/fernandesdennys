@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennys Fernandes</h1>
-<h3 align="center">Front-End Developer | Estudante de Tecnologia | Limeira-SP 🇧🇷</h3>
+<h3 align="center">Front-End Developer | Estudante de Tecnologia </h3>
 
 <p align="center">
   "Curioso por natureza e movido por desafios, sempre acreditei no poder da evolução constante. Hoje, canalizo essa mentalidade para a programação, explorando cada linha de código como um novo degrau na minha jornada. Estou construindo minha versão no mundo digital um passo de cada vez, aprendendo, errando e aprimorando minhas habilidades para, em breve, transformar ideias em soluções."
