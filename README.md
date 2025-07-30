@@ -11,7 +11,7 @@
 
 🎓 Estudante autodidata de desenvolvimento web, com planos de cursar ADS em breve.  
 🌱 Atualmente focado em **HTML5**, **CSS3**, **JavaScript** e **React**.  
-🛠️ Explorando **React**, **Figma** e **boas práticas de UI/UX**.  
+🛠️ Explorando **React**, **Figma** e **UI/UX**.  
 🎯 Objetivo: Transformar criatividade em interfaces funcionais e acessíveis.  
 
 ---
