@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennys Fernandes</h1>
-<h3 align="center">Front-End Developer | Estudante de Tecnologia </h3>
+<h3 align="center">Front-End Developer | Student in Web Development</h3>
 
 <p align="center">
   "Curioso por natureza e movido por desafios, sempre acreditei no poder da evolução constante. Hoje, canalizo essa mentalidade para a programação, explorando cada linha de código como um novo degrau na minha jornada. Estou construindo minha versão no mundo digital um passo de cada vez, aprendendo, errando e aprimorando minhas habilidades para, em breve, transformar ideias em soluções."
@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 Sobre Mim
+### 🧠 About Me
 
 🎓 Estudante autodidata de desenvolvimento web, com planos de cursar ADS em breve.  
 🌱 Atualmente focado em **HTML5**, **CSS3**, **JavaScript** e **React**.  
@@ -38,7 +38,7 @@
 
 ---
 
-### 📂 Repositórios em Destaque
+### 📂 Featured Repositories
 
 - 📌 [HTML-CSS](https://github.com/fernandesdennys/HTML-CSS)
 - 📌 [Javascript-TypeScript](https://github.com/fernandesdennys/Javascript-TypeScript)
@@ -47,7 +47,7 @@
 
 ---
 
-### 🌐 Contato
+### 🌐 Contact
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dennysfernandes/)
 
