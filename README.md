@@ -40,10 +40,14 @@
 
 ### 📂 Featured Repositories
 
-- 📌 [HTML-CSS](https://github.com/fernandesdennys/HTML-CSS)
-- 📌 [Javascript-TypeScript](https://github.com/fernandesdennys/Javascript-TypeScript)
-- 📌 [Logica-de-programacao](https://github.com/fernandesdennys/Logica-de-programacao)
-- 📌 [Desenv-Web](https://github.com/fernandesdennys/Desenv-Web)
+### 📂 Featured Repositories
+
+* 📌 [HTML-CSS](https://github.com/fernandesdennys/HTML-CSS)
+* 📌 [Javascript-TypeScript](https://github.com/fernandesdennys/Javascript-TypeScript)
+* 📌 [React](https://github.com/fernandesdennys/React)
+* 📌 [next-crud](https://github.com/fernandesdennys/next-crud)
+* 📌 [Estudos-Faculdade](https://github.com/fernandesdennys/Estudos-Faculdade)
+* 📌 [Beecrowd](https://github.com/fernandesdennys/Beecrowd)
 
 ---
 
