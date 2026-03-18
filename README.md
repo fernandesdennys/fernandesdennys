@@ -9,9 +9,9 @@
 
 ### 🧠 About Me
 
-🎓 Estudante autodidata de desenvolvimento web, com planos de cursar ADS em breve.  
+🎓 Estudante autodidata de desenvolvimento web, cirsando Analise e desenvolvimento de sistemas.  
 🌱 Atualmente focado em **HTML5**, **CSS3**, **JavaScript** e **React**.  
-🛠️ Explorando **React**, **Figma** e **UI/UX**.  
+🛠️ Explorando  **JavaScript** e **React**.  
 🎯 Objetivo: Transformar criatividade em interfaces funcionais e acessíveis.  
 
 ---
