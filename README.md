@@ -1,4 +1,3 @@
-
 <h1 align="center">Olá, eu sou Dennys Fernandes 👋</h1>
 <h3 align="center">Desenvolvedor Front-End em formação | Análise e Desenvolvimento de Sistemas</h3>
 
@@ -30,7 +29,7 @@
 ## 🚀 Projeto em destaque
 
 ### 📦 [App Controle Estoque](https://github.com/fernandesdennys/App-Controle-Estoque)
-Aplicação de controle de estoque doméstico, desenvolvida em parceria com [Marrafon91](https://github.com/Marrafon91) — eu cuidando do front-end, ele do back-end como desenvolvedor full-stack.
+Aplicação de controle de estoque doméstico, desenvolvida em parceria com [Marrafon91](https://github.com/Marrafon91) — eu cuidando do front-end, e ele, desenvolvedor full-stack, do back-end.
 
 - **Front-end (eu):** React 19 + Vite + TypeScript + Tailwind CSS 4, validação de formulários com Zod e consumo de API com Axios
 - **Back-end ([Marrafon91](https://github.com/Marrafon91)):** Java + Spring Boot, autenticação via JWT e Spring Security, PostgreSQL em produção
@@ -79,12 +78,7 @@ Aplicação de controle de estoque doméstico, desenvolvida em parceria com [Mar
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandesdennys&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=fernandesdennys&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesdennys&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
 
 <br/>
