@@ -70,8 +70,6 @@ Aplicação de controle de estoque doméstico, desenvolvida em parceria com [Mar
 | 📌 [CRUD com Next.js](https://github.com/fernandesdennys/next-crud) | CRUD completo usando Next.js |
 | 📌 [JavaScript e TypeScript](https://github.com/fernandesdennys/Javascript-TypeScript) | Exercícios e estudos de lógica e tipagem |
 | 📌 [HTML e CSS](https://github.com/fernandesdennys/HTML-CSS) | Fundamentos de marcação e estilização |
-| 📌 [Exercícios Beecrowd](https://github.com/fernandesdennys/Beecrowd) | Resolução de problemas de lógica de programação |
-| 📌 [Estudos da Faculdade](https://github.com/fernandesdennys/Estudos-Faculdade) | Material e projetos do curso de ADS |
 
 <br/>
 
