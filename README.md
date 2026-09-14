@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Dennys Fernandes 👋</h1>
-<h3 align="center">Desenvolvedor Front-End em formação | Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center">Desenvolvedor Full-Stack em formação | Análise e Desenvolvimento de Sistemas</h3>
 
 <p align="center">
   Estudante autodidata, aplico curiosidade e disciplina na construção de interfaces reais. Foco em front-end moderno com React e TypeScript, boas práticas e atenção ao detalhe — do design ao deploy.
