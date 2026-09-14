@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Front-End em formação | Análise e Desenvolvimento de Sistemas</h3>
 
 <p align="center">
-  Estudante autodidata e curioso por natureza, aplico esse gosto por aprender na programação: transformo curiosidade em código e ideias em interfaces reais. Estou construindo minha trajetória na área com foco em front-end moderno, atenção a boas práticas e vontade de evoluir a cada projeto.
+  Estudante autodidata, aplico curiosidade e disciplina na construção de interfaces reais. Foco em front-end moderno com React e TypeScript, boas práticas e atenção ao detalhe — do design ao deploy.
 </p>
 
 <p align="center">
@@ -19,42 +19,44 @@
 ## 🧠 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 💻 Foco atual: **React**, **TypeScript** e **Tailwind CSS**
-- 🚀 Aprendendo na prática, construindo projetos completos (front-end + integração com back-end)
-- 🎯 Objetivo: atuar como desenvolvedor front-end, criando interfaces funcionais, acessíveis e bem cuidadas no detalhe
-- 🌱 Sempre aberto a feedback e a trocar ideia sobre código
+- 💻 Foco atual: **React**, **TypeScript**, **Tailwind CSS** e integração com APIs (Axios, Zod)
+- 🚀 Construindo projetos completos, do front-end à integração com back-end
+- 🎯 Buscando minha primeira oportunidade como desenvolvedor front-end
 
 <br/>
 
 ## 🚀 Projeto em destaque
 
 ### 📦 [App Controle Estoque](https://github.com/fernandesdennys/App-Controle-Estoque)
-Aplicação de controle de estoque doméstico, desenvolvida em parceria com [Marrafon91](https://github.com/Marrafon91) — eu cuidando do front-end, e ele, desenvolvedor full-stack, do back-end.
+Aplicação de controle de estoque doméstico, em produção — desenvolvida em parceria com [Marrafon91](https://github.com/Marrafon91).
 
-- **Front-end (eu):** React 19 + Vite + TypeScript + Tailwind CSS 4, validação de formulários com Zod e consumo de API com Axios
-- **Back-end ([Marrafon91](https://github.com/Marrafon91)):** Java + Spring Boot, autenticação via JWT e Spring Security, PostgreSQL em produção
-- **Infra:** deploy em produção (Render), com API e banco de dados na nuvem
-- Funcionalidades: dashboard, controle de despensa, lista de compras e histórico de movimentações
+- **Front-end (eu):** React 19, Vite, TypeScript, Tailwind CSS 4, Zod (validação de formulários), Axios (consumo de API)
+- **Back-end ([Marrafon91](https://github.com/Marrafon91)):** Java, Spring Boot, JWT, Spring Security, PostgreSQL
+- **Infra:** deploy em produção (Render), API e banco de dados na nuvem
+- **Funcionalidades:** dashboard, controle de despensa, lista de compras e histórico de movimentações
 
-*Um projeto real, do design ao deploy — onde aplico o que estudo em um contexto de produto de verdade.*
+<!-- Se tiver link da aplicação rodando, descomente e preencha:
+🔗 [Ver aplicação em produção](https://SEU-LINK-AQUI.onrender.com)
+-->
 
 <br/>
 
 ## 💻 Tecnologias
 
 <p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ## 📚 Em aprendizado
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -80,7 +82,3 @@ Aplicação de controle de estoque doméstico, desenvolvida em parceria com [Mar
 </p>
 
 <br/>
-
-<p align="center">
-  💬 Aberto a oportunidades e parcerias em projetos front-end — vamos conversar!
-</p>
